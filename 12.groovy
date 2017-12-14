@@ -1,2 +1,0 @@
-artifactory('8081') {
-}
