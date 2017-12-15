@@ -2,6 +2,6 @@ artifactory('8081') {
   localRepository('i1') {
   }
   repository('i1') {
-    starPull '8083'
+    starPull '8081'
   }
 }
